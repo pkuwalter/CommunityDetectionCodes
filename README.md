@@ -76,8 +76,21 @@ Algorithm | Category | Language | Dependency | Status
 [2013-SVINET](Algorithms/2013-SVINET) | statistical inference | c++ | gsl, pthread | build success
 [2013-SeedExpansion](Algorithms/2013-Seed-Set-Expansion) | page-rank | c++, matlab | [graclus](https://github.com/GraphProcessor/Graclus), [matlab-bgl](https://github.com/dgleich/matlab-bgl) | 
 [2014-HRGrow](Algorithms/2014-Heat-Kernel) | matrix-exponential | c++, matlab, python | pylibbvg | python okay
-[2015-LEMON](Algorithms/2015-LEMON) | seed expansion | python | pulp | python okay
+[2015/2018-LEMON](Algorithms/2015-LEMON) | seed expansion | python | pulp | python okay
 [2017-multicom](Algorithm/2017-multicom) | seed expansion | python | pandas | 
+[2018/2019-loglike](Algorithm/2018-loglike) |[statistical inference](https://github.com/altsoph/community_loglike)| python | | 
+[2018-LARC](Algorithm/2018-LARC)|[tensor-based method](http://www.cs.albany.edu/~petko/lab/code.html)| Matlab | | 
+[2019-ncd](Algorithm/2019-ncd) | [Graph Neural Networks](https://github.com/shchur/overlapping-community-detection) | python | pytorch | 
+2019-locd | [seed expansion](https://dl.acm.org/doi/pdf/10.1145/3361739) | do not open source| | 
+[2019-CommunityGAN](Algorithm/2019-CommunityGAN) |[Generative Adversarial Nets](https://github.com/SamJia/CommunityGAN)|python||
+2020-medof |[fuzzy detection](https://dl.acm.org/doi/pdf/10.1145/3313374)| do not open source| | 
+2020-Fox |[dynamics](https://dl.acm.org/doi/pdf/10.1145/3404970)| do not open source||
+[2020-RWM](Algorithm/2020-RWM)|[random walk](https://github.com/flyingdoog/RWM/)| c++ | | 
+
+
+
+
+
 
 ## Presentation Files
 
